@@ -1,0 +1,23 @@
+nav{
+    display: flex;
+    justify-content: flex-start;
+    background-color: #d6afdc;
+    margin: 20px;
+    padding: 20px;
+    width: 600px;
+}
+
+nav div a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+}
+
+nav div{
+    padding: 20px;
+}
+
+nav div:hover{
+    background-color: blue;
+    cursor: pointer;
+}
